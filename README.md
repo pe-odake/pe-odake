@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/YuttyAkiko">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=YuttyAkiko&show_icons=true&theme=dracula"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuttyAkiko&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=pe-odake&show_icons=true&theme=dracula"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe-odake&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -33,14 +33,14 @@
 <h3>🙋‍♀️ Contact with me: </h3>
 
   <nav>
-    <a href="https://www.linkedin.com/in/yutty-akiko/" target="_blank"><!-- LinkedIn -->
-      <img src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png" width="60px">
+    <a href="https://www.linkedin.com/in/pedro-de-souza-odake-64a1882b0/" target="_blank"><!-- LinkedIn -->
+      <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="60px">
     </a>
-    <a href="https://www.instagram.com/yutty.tk/" target="_blank"><!-- Instagram -->
-      <img src="https://img.icons8.com/?size=512&id=nj0Uj45LGUYh&format=png" width="60px">
+    <a href="https://www.instagram.com/p3dr00dak3/"><!-- Instagram -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" width="60px">
     </a>
-    <a href="mailto:yutty.akiko@gmail.com"><!-- Gmail -->
-      <img src="https://img.icons8.com/?size=512&id=eFPBXQop6V2m&format=png" width="60px">
-    </a>
+    <!--<a href=""> Gmail <img src="" width="60px"> </a>-->
+      
+   
   </nav>
 </div>
