@@ -1,16 +1,13 @@
 <div align="center">
 <img src="" width="500px">
 
-<h1>Hi 👋, I’m Yutty Akiko!</h1>
+<h1>Hello, I'm Pedro Odake</h1>
 
-<p>👨‍🎓 Systems Analysis and Development at <a href="https://mooca.sp.senai.br/">SENAI "Morvan Figueiredo"</a></p>
-<p>💞️ Looking to collaborate with people who are also learning to develop systems</p>
-<p>👀 Interested in creative projects</p>
-
+<p>Student of SENAI Morvan Figueiredo</p>
 
 <br>
 
-<h2>🚀 Developing my skills in...</h2>
+<h2>My Skills</h2>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><!-- HTML5 -->
