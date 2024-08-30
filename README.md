@@ -4,6 +4,7 @@
 <h1>Hello, I'm Pedro Odake</h1>
 
 <p>Student of SENAI Morvan Figueiredo</p>
+<img src="https://www.inova.unicamp.br/wp-content/uploads/2021/05/SENAI-SP.jpg" width="95%">
 
 <br>
 
