@@ -1,5 +1,5 @@
 <h1 align="center">Olá,eu sou Pedro Odake</h1>
-<h3 align="center">Um estudamente amente da programação.</h3>
+<h3 align="center">Um estudamente amante da programação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pe-odake&label=Profile%20views&color=0e75b6&style=flat" alt="pe-odake" /> </p>
 
