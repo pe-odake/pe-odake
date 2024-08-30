@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" width="500px">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF01EZsvbWy-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718735823108?e=1730332800&v=beta&t=axnyI5B86zdrCjb1i9Ba4LVyjCwfkMZdhEenSl3xQ4k" width="100%">
 
 <h1>Hello, I'm Pedro Odake</h1>
 
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><!-- JavaScript -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><!-- Node.js -->
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><!-- Amazon AWS -->
-  <img src="https://img.shields.io/chrome-web-store/users/Google%20Cloud"><!-- Google Cloud -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><!-- Figma -->
 </div>
 
