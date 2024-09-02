@@ -29,7 +29,7 @@
 
 <br>
  
-<h3>🙋‍♀️ Contact with me: </h3>
+<h3>Contact with me: </h3>
 
   <nav>
     <a href="https://www.linkedin.com/in/pedro-de-souza-odake-64a1882b0/" target="_blank"><!-- LinkedIn -->
