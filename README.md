@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/YuttyAkiko">
+  <a href="https://github.com/pe-odake">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=pe-odake&show_icons=true&theme=dracula"/>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe-odake&layout=compact&langs_count=7&theme=dracula"/>
   </a>
