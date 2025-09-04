@@ -1,44 +1,82 @@
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF01EZsvbWy-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718735823108?e=1730332800&v=beta&t=axnyI5B86zdrCjb1i9Ba4LVyjCwfkMZdhEenSl3xQ4k" width="100%">
+# Olá, eu sou o Pedro Odake! 👋
 
-<h1>Hello, I'm Pedro Odake</h1>
-
-<p>Student of SENAI Morvan Figueiredo</p>
-
-<br>
-
-<h2>My Skills</h2>
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><!-- HTML5 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><!-- CSS3 -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><!-- JavaScript -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><!-- Node.js -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><!-- Figma -->
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/pe-odake">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=pe-odake&show_icons=true&theme=dracula"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe-odake&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github.com/pe-odake/pe-odake/blob/main/profile-pic.png?raw=true" alt="Pedro Odake" width="200px"/>
   </a>
-</div>
+</p>
 
-<br>
- 
-<h3>Contact with me: </h3>
+Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas no SENAI Morvan Figueiredo. Minha jornada no mundo da programação é impulsionada pela curiosidade e pelo desejo de transformar ideias inovadoras em soluções funcionais. Adoro explorar novas ferramentas e linguagens, sempre buscando aprimorar minhas habilidades e construir projetos que realmente façam a diferença. Seja bem-vindo(a) ao meu espaço digital! ✨
 
-  <nav>
-    <a href="https://www.linkedin.com/in/pedro-de-souza-odake-64a1882b0/" target="_blank"><!-- LinkedIn -->
-      <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="60px">
-    </a>
-    <a href="https://www.instagram.com/p3dr00dak3/"><!-- Instagram -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" width="60px">
-    </a>
-    <!--<a href=""> Gmail <img src="" width="60px"> </a>-->
-      
-   
-  </nav>
-</div>
+---
+
+
+
+
+## 🚀 Habilidades Principais
+
+Minhas principais ferramentas e tecnologias incluem:
+
+### Linguagens de Programação:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks e Bibliotecas:
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-2196F3?style=for-the-badge&logo=flet&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-FFD13B?style=for-the-badge&logo=pygame&logoColor=white)
+
+---
+
+
+
+
+## ✨ Projetos em Destaque
+
+Aqui estão alguns dos projetos que fixei no meu perfil, que demonstram minhas habilidades e interesses. Clique nos nomes para explorar os repositórios! 🚀
+
+| Projeto | Tecnologias Principais | Descrição |
+|---|---|---|
+| **[django-pro](https://github.com/pe-odake/django-pro)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Um projeto que demonstra o passo-a-passo de como fazer o deploy de uma aplicação Django, ideal para quem está começando com deploy de aplicações web. |
+| **[pe-odake](https://github.com/pe-odake/pe-odake)** | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | Este é o repositório do meu próprio perfil do GitHub, onde você pode encontrar este README e ver como organizo minhas informações. |
+| **[Portifolio-Web](https://github.com/pe-odake/Portifolio-Web)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Um projeto de portfólio web simples e elegante, mostrando minhas habilidades em desenvolvimento front-end e design responsivo. |
+| **[Simulado_SAEP](https://github.com/pe-odake/Simulado_SAEP)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Um projeto de simulado interativo para o SAEP, utilizando JavaScript para criar uma experiência de aprendizado dinâmica. |
+| **[Dronato/SoulRedemptionPygames](https://github.com/Dronato/SoulRedemptionPygames)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-FFD13B?style=flat-square&logo=pygame&logoColor=white) | Um jogo envolvente desenvolvido utilizando a biblioteca Pygame, explorando conceitos de lógica de jogo e design de interface. |
+| **[Dronato/WMS](https://github.com/Dronato/WMS)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Um sistema de WMS (Warehouse Management System) desenvolvido com foco em HTML, demonstrando a criação de interfaces robustas para gerenciamento de estoque. |
+
+---
+
+
+
+
+## 📬 Conecte-se Comigo
+
+Estou sempre aberto a novas conexões, colaborações e oportunidades! Sinta-se à vontade para me contatar através das minhas redes sociais. Adoraria trocar ideias e aprender com você! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil)
+
+---
+
+
+
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pe-odake&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Pedro Odake"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe-odake&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
+</p>
+
+---
+
+<p align="center">
+  Feito com ❤️ por Manus AI
+</p>
+
+
