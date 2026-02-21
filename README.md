@@ -73,10 +73,4 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades! Sinta-se 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pe-odake&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
 </p>
 
----
-
-<p align="center">
-  Feito com ❤️ por Manus AI
-</p>
-
 
