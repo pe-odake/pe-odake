@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Atualiza as métricas uma vez por dia à meia-noite
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite que você rode a automação manualmente quando quiser
+  workflow_dispatch:
+  # Atualiza as métricas sempre que você fizer um push no README
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token que você acabou de criar
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Opções principais
+          user: pe-odake 
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          # Plugin de Linguagens (Para mostrar a lista Most used languages)
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
