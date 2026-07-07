@@ -71,35 +71,18 @@
 
   <div style="flex: 1; width: 50%;">
         <img align="left" width="50%" alt="GitHub Metrics" 
-        src="https://raw.githubusercontent.com/pe-odake/pe-odake/main/metrics.svg">
+        src="https://raw.githubusercontent.com/pe-odake/pe-odake/main/github-metrics.svg">
   </div>
 
   <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
         <h3>🌎 Let's Connect and Grow Together!</h3>
         <p>
-            <a href="[LINK_DO_SEU_LINKEDIN]" target="_blank" style="text-decoration: none;">
+            <a href="https://www.linkedin.com/in/pedro-odake" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
             </a>
-            <a href="[LINK_DO_SEU_INSTAGRAM]" target="_blank" style="text-decoration: none;">
+            <a href="#" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
             </a>
-        </p>
-        
-  <h3>✨ Fun Facts</h3>
-        <ul>
-            <li>[Fato divertido sobre você 1 - Ex: Amo fotografia nas horas vagas]</li>
-            <li>[Fato divertido sobre você 2 - Ex: Gosto de explorar novos frameworks]</li>
-            <li>[Fato divertido sobre você 3 - Ex: Entusiasta de código limpo e arquitetura]</li>
-        </ul>
-        
-  <h3>💡⚛️🎨 My Work Approach </h3>
-        <p>
-          [Descreva aqui sua abordagem de trabalho, metodologias preferidas e sua visão sobre desenvolvimento. Ex: Como desenvolvedor(a), minha abordagem vai além de apenas escrever código. Foco em arquiteturas sustentáveis, legibilidade e nas melhores práticas para construir sistemas seguros e otimizados.]
-        </p> 
-        
-  <h3>🧑‍💻 About Me</h3>
-        <p>
-          [Escreva um breve resumo sobre quem você é, sua trajetória, paixões na área de tecnologia e o que você busca atualmente. Ex: Sou apaixonado(a) por tecnologia, estudo constantemente novos conceitos do backend e estou sempre em busca de desafios que elevem meu nível técnico.]
         </p>
     </div>
 </div>
