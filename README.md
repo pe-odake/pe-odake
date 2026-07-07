@@ -39,8 +39,8 @@
 
 ### 🚀 Projetos em Destaque
 
-- **[MySphere](https://github.com/pe-odake/MySphere)** 🌟
-  - **Descrição:** Plataforma de rede social corporativa desenvolvida para melhorar a comunicação e a interação entre colaboradores de diferentes empresas. O sistema utiliza arquitetura **Multi-Tenant**, garantindo o isolamento dos dados de cada organização, além de oferecer recursos como publicações, perfis de usuários e chat em tempo real.
+- **[MySphere](https://github.com/pe-odake/MySphere)** 
+  - **Descrição:** Plataforma de rede social corporativa desenvolvida para melhorar a comunicação e a interação entre colaboradores da mesma empresa. O sistema utiliza arquitetura **Multi-Tenant**, garantindo o isolamento dos dados de cada organização/empresa, além de oferecer recursos como publicações, perfis de usuários, chat em tempo real, gamificação e conquistas para fins de destaque de funcionários.
   - **Destaques:** Arquitetura Multi-Tenant, autenticação, feed de publicações, chat integrado e gerenciamento de usuários.
   - **Tecnologias:**
     <br>
@@ -48,7 +48,7 @@
 
 ---
 
-- **[FinancePlan](https://github.com/pe-odake/FinancePlan)** 🚀
+- **[FinancePlan](https://github.com/pe-odake/FinancePlan)** 
   - **Descrição:** Plataforma Full Stack desenvolvida para unir o controle financeiro pessoal ao planejamento de investimentos. O sistema permite registrar receitas e despesas, acompanhar a evolução financeira e realizar simulações utilizando dados reais do mercado para investimentos em ações e bancos.
   - **Destaques:** Controle financeiro, simulação de investimentos, integração com dados do mercado, dashboard interativo e arquitetura API + SPA.
   - **Tecnologias:**
@@ -57,7 +57,7 @@
 
 ---
 
-- **[WMS](https://github.com/pe-odake/WMS)** 📦
+- **[WMS](https://github.com/pe-odake/WMS)** 
   - **Descrição:** Sistema de Gerenciamento de Armazém (Warehouse Management System) desenvolvido para auxiliar no controle das operações logísticas. O projeto foi construído em conjunto com a turma de Logística, permitindo o gerenciamento de produtos, controle de estoque, entradas, saídas e acompanhamento financeiro relacionado às movimentações do armazém.
   - **Destaques:** Cadastro de produtos, controle de estoque, movimentação de mercadorias, acompanhamento financeiro e integração com banco de dados SQL Server.
   - **Tecnologias:**
