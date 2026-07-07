@@ -66,7 +66,7 @@
 
 ---
 
-- **[Sistema de Ocorrências Escolar](https://github.com/pe-odake/sistema-de-ocorrencia-escolar)** 🔥
+- **[Sistema de Ocorrências Escolar](https://github.com/pe-odake/sistema-de-ocorrencia-escolar)** 
   - **Descrição:** API REST desenvolvida para facilitar o registro, gerenciamento e acompanhamento de ocorrências disciplinares e pedagógicas em instituições de ensino. O sistema foi criado com foco em organização, rastreabilidade e centralização das informações dos alunos.
   - **Destaques:** API REST, autenticação, gerenciamento de ocorrências, arquitetura em camadas e persistência de dados.
   - **Tecnologias:**
