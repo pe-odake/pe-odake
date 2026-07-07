@@ -40,29 +40,39 @@
 ### 🚀 Projetos em Destaque
 
 - **[MySphere](https://github.com/pe-odake/MySphere)** 🌟
-  - Descrição: Rede social descentralizada, com backend assíncrono e interface construída em Flet — meu projeto de conclusão do Técnico em Desenvolvimento de Sistemas.
-  - Problema: Consolidar, em um único projeto real, tudo que aprendi ao longo do curso técnico, indo além de exercícios isolados e construindo uma aplicação completa de ponta a ponta.
-  - A Solução: Estruturei o backend em Python com FastAPI para lidar com autenticação, publicações e interações entre usuários, e construí o frontend com Flet, unindo lógica de backend e interface em uma única stack Python.
-  - Stack: Python, FastAPI, Flet.
+  - **Descrição:** Plataforma de rede social corporativa desenvolvida para melhorar a comunicação e a interação entre colaboradores de diferentes empresas. O sistema utiliza arquitetura **Multi-Tenant**, garantindo o isolamento dos dados de cada organização, além de oferecer recursos como publicações, perfis de usuários e chat em tempo real.
+  - **Destaques:** Arquitetura Multi-Tenant, autenticação, feed de publicações, chat integrado e gerenciamento de usuários.
+  - **Tecnologias:**
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,django,postgres" />
+
+---
 
 - **[FinancePlan](https://github.com/pe-odake/FinancePlan)** 🚀
-  - Descrição: Ferramenta de planejamento financeiro pessoal, desenvolvida inteiramente sozinho, do backend ao frontend.
-  - Problema: Faltava um projeto meu, feito sem apoio de equipe ou tutorial guiado, que provasse minha capacidade de arquitetar e entregar um produto completo sozinho.
-  - A Solução: Construí a API com Python e FastAPI para as regras de negócio de controle financeiro, e o frontend em React para consumir essa API e apresentar os dados de forma clara ao usuário.
-  - Stack: Python, FastAPI, React.
+  - **Descrição:** Plataforma Full Stack desenvolvida para unir o controle financeiro pessoal ao planejamento de investimentos. O sistema permite registrar receitas e despesas, acompanhar a evolução financeira e realizar simulações utilizando dados reais do mercado para investimentos em ações e bancos.
+  - **Destaques:** Controle financeiro, simulação de investimentos, integração com dados do mercado, dashboard interativo e arquitetura API + SPA.
+  - **Tecnologias:**
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,react,sqlite" />
 
-- **[WMS](https://github.com/pe-odake/WMS)** 💡
-  - Descrição: Sistema de gerenciamento de armazém (Warehouse Management System), com foco no controle de estoque e movimentação de produtos.
-  - Problema: Empresas que gerenciam estoque manualmente enfrentam dificuldade de rastrear produtos e movimentações, gerando erros e perda de controle.
-  - A Solução: Desenvolvi uma interface web com HTML, CSS e JavaScript para organizar o cadastro e a movimentação de itens de forma simples e acessível.
-  - Stack: HTML, CSS, JavaScript.
+---
 
-- **[sistema-de-ocorrencia-escolar](https://github.com/pe-odake/sistema-de-ocorrencia-escolar)** 🔥
-  - Descrição: API para registro e gestão de ocorrências escolares.
-  - Problema: Escolas costumam registrar ocorrências de forma manual ou desorganizada, dificultando o acompanhamento de casos ao longo do tempo.
-  - A Solução: Criei uma API em Java com Spring Boot para estruturar o cadastro e a consulta de ocorrências — meu primeiro projeto sério estudando Spring Boot por conta própria.
-  - Stack: Java, Spring Boot.
+- **[WMS](https://github.com/pe-odake/WMS)** 📦
+  - **Descrição:** Sistema de Gerenciamento de Armazém (Warehouse Management System) desenvolvido para auxiliar no controle das operações logísticas. O projeto foi construído em conjunto com a turma de Logística, permitindo o gerenciamento de produtos, controle de estoque, entradas, saídas e acompanhamento financeiro relacionado às movimentações do armazém.
+  - **Destaques:** Cadastro de produtos, controle de estoque, movimentação de mercadorias, acompanhamento financeiro e integração com banco de dados SQL Server.
+  - **Tecnologias:**
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" /> <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
 
+---
+
+- **[Sistema de Ocorrências Escolar](https://github.com/pe-odake/sistema-de-ocorrencia-escolar)** 🔥
+  - **Descrição:** API REST desenvolvida para facilitar o registro, gerenciamento e acompanhamento de ocorrências disciplinares e pedagógicas em instituições de ensino. O sistema foi criado com foco em organização, rastreabilidade e centralização das informações dos alunos.
+  - **Destaques:** API REST, autenticação, gerenciamento de ocorrências, arquitetura em camadas e persistência de dados.
+  - **Tecnologias:**
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+    
 ---
 
 ###
@@ -75,7 +85,7 @@
   </div>
 
   <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
-        <h3>🌎 Let's Connect and Grow Together!</h3>
+        <h3>Contate-se Comigo ,</h3>
         <p>
             <a href="https://www.linkedin.com/in/pedro-odake" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
